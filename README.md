@@ -4,7 +4,11 @@ A color scheme for iTerm2 I made to fit my own Sublime Text theme.
 
 ## Screenshots
 
+* Using the __Roboto Mono Medium for Powerline__ font, size 12:
+
 ![Neofetch](./screenshots/colors.png)
+
+* Using the __Monaco__ font, size 13:
 
 ![Colors](./screenshots/hivacruz.png)
 
