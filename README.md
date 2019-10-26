@@ -34,7 +34,7 @@ git clone https://github.com/kinoute/hivacruz-itermcolors.git
 
 Download the [.zip archive](https://github.com/kinoute/hivacruz-itermcolors/archive/master.zip) and unzip it.
 
-## Activating theme
+## Activate the theme
 
 1. Go to `iTerm2 > Preferences > Profiles > Colors Tab`
 2. Click `Load Presets`
