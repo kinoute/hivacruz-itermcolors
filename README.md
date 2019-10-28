@@ -1,6 +1,6 @@
 # Hivacruz iTerm Color Scheme
 
-A color scheme for iTerm2 I made to fit my own [Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme).
+A color scheme I made for iTerm2 to fit my own [Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme).
 
 ![Neofetch](./screenshots/colors.png)
 
