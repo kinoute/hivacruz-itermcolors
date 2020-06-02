@@ -1,17 +1,16 @@
 # Hivacruz iTerm Color Scheme
 
-A color scheme I made for iTerm2 to fit my own [Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme).
+A color scheme I made for iTerm2 to fit my own [Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme) and [Typora Theme](https://github.com/kinoute/typora-hivacruz-theme).
 
 ![Neofetch](./screenshots/colors.png)
 
 ## Installation
 
-I'm using the **Roboto Mono Medium for Powerline** with it (size 12). You can install the font with Homebrew like this:
+I'm using the **Roboto Mono Medium Nerd Font Complete** with it (size 12). You can install the font with Homebrew like this:
 
-```sh
+```bash
 brew tap homebrew/cask-fonts
-brew cask install font-roboto-mono
-brew cask install font-roboto-mono-for-powerline
+brew cask install font-robotomono-nerd-font
 ```
 ### Download with git
 
@@ -43,5 +42,7 @@ Using the __Monaco__ font, size 13:
 
 ## Credits
 
-Created by Yann Defretin. [My Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme) that inspired this repo was itself inspired by [Coda 2.5](https://panic.com/coda)'s Panic Palette written by Cabel Sasser.
+* Created by [Yann Defretin](https://github.com/kinoute).
+
+* [My Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme) that inspired this repo was itself inspired by [Coda 2.5](https://panic.com/coda)'s Panic Palette written by Cabel Sasser.
 
