@@ -40,6 +40,14 @@ Using the __Monaco__ font, size 13:
 
 ![Colors](./screenshots/hivacruz.png)
 
+## Same theme in other apps
+
+I made similar themes with the same colours for different applications. Here there are:
+
+- Sublime Text theme : https://github.com/kinoute/hivacruz-sublime-theme
+- VSCode Theme : https://github.com/kinoute/vscode-hivacruz-theme
+- Typora Theme : https://github.com/kinoute/typora-hivacruz-theme
+
 ## Credits
 
 * Created by [Yann Defretin](https://github.com/kinoute).
