@@ -1,6 +1,6 @@
 # Hivacruz iTerm Color Scheme
 
-A color scheme I made for iTerm2 to fit my own [Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme) and [Typora Theme](https://github.com/kinoute/typora-hivacruz-theme).
+A dark blue color scheme I made for iTerm2 to fit my own other [color schemes](#same-theme-in-other-apps).
 
 ![Neofetch](./screenshots/colors.png)
 
@@ -48,10 +48,9 @@ I made similar themes with the same colours for different applications. Here the
 - VSCode Theme: https://github.com/kinoute/vscode-hivacruz-theme
 - Typora Theme: https://github.com/kinoute/typora-hivacruz-theme
 - Nova Theme: https://github.com/kinoute/hivacruz-nova-theme
+- Vim Theme: https://github.com/kinoute/vim-hivacruz-theme
 
 ## Credits
 
 * Created by [Yann Defretin](https://github.com/kinoute).
-
-* [My Sublime Text theme](https://github.com/kinoute/hivacruz-sublime-theme) that inspired this repo was itself inspired by [Coda 2.5](https://panic.com/coda)'s Panic Palette written by Cabel Sasser.
 
