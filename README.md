@@ -48,7 +48,9 @@ I made similar themes with the same colours for different applications. Here the
 - VSCode Theme: https://github.com/kinoute/vscode-hivacruz-theme
 - Typora Theme: https://github.com/kinoute/typora-hivacruz-theme
 - Nova Theme: https://github.com/kinoute/hivacruz-nova-theme
-- Vim Theme: https://github.com/kinoute/vim-hivacruz-theme
+- Vim Theme: https://github.com/kinoute/vim-hivacruz-theme 
+- Zed: https://github.com/kinoute/zed-hivacruz-theme
+
 
 ## Credits
 
